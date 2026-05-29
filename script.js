@@ -18,7 +18,6 @@ function addTask() {
     addData()
 }
 
-
 listContainer.addEventListener("click", function(e) {
     if(e.target.tagName === "LI") {
         e.target.classList.toggle("checked");
@@ -28,7 +27,6 @@ listContainer.addEventListener("click", function(e) {
         addData()
     }
 }, false);
-
 
 
 function addData() {
