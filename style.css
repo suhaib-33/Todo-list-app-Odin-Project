@@ -185,7 +185,6 @@ ul li span {
     border-radius: 50%;
     transition: 0.2s ease;
 }
-
 ul li span:hover {
     background: #edeef0;
     color: #ff5945;
