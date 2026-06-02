@@ -237,11 +237,9 @@ ul li span:hover {
 ========================= */
 
 @media (max-width: 320px) {
-
     .todo-list h2 {
         font-size: 20px;
     }
-
     .row {
         flex-direction: column;
         align-items: stretch;
@@ -249,11 +247,9 @@ ul li span:hover {
         padding: 10px;
         border-radius: 20px;
     }
-
     .row input {
         width: 100%;
     }
-
     .row button {
         width: 100%;
     }
