@@ -19,8 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
-    padding: 20px;
+    padding: 19px;
 }
 
 .todo-list {
